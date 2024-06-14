@@ -1,3 +1,3 @@
 # MSDS-Day-0
 
-# Technical Orientation (Python)
+Technical Orientation (Python)
