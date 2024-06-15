@@ -26,8 +26,5 @@ The Binomial distribution is a discrete probability distribution that models the
 
 - As demonstrated through histograms and statistical theory, the Binomial distribution converges to the Normal distribution as the number of trials \( N \) increases. This convergence is a fundamental result in probability theory and has wide-ranging applications in statistics and modeling.
 
-## Code and Resources
 
-- The Python code used to generate these histograms can be found in [this GitHub repository](link_to_repo).
-- For further exploration and understanding, refer to resources on probability distributions, statistical convergence, and Python programming with `numpy` and `matplotlib`.
 
